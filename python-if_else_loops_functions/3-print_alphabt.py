@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Elvin Cyubahiro
+# Author - Josiane Mukeshimana
 
 for letter in range(97, 123):
     if chr(letter) != 'q' and chr(letter) != 'e':
