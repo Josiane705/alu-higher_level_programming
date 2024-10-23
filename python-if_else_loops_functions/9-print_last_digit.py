@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Josiane Mukeshimana 
+# Author - Josiane Mukeshimana
 
 
 def print_last_digit(number):
