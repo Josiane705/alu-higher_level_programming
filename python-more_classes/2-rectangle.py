@@ -51,4 +51,4 @@ class Rectangle:
         height = self.__height
         if width == 0 or height == 0:
             return 0
-        return (width + height) *
+        return (width + height) * 2
