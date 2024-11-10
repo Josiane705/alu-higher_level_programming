@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class Rectangle:
     def __init__(self, width=0, height=0):
         # Initialize the rectangle with optional width and height values (default is 0)
