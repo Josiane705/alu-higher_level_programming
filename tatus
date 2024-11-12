@@ -1,0 +1,965 @@
+[33mcommit 85f47ca76555c12e72761f06d65d443ba079aef1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 11:36:18 2024 -0800
+
+    9-rectagle.py
+
+[33mcommit df56ee5870450be78fccfd4b8fb3d51a516849cb[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 11:28:23 2024 -0800
+
+    9-rectangle.py
+
+[33mcommit e8bafab4a1c71e43df768e7faa53255d62c386d7[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 01:30:34 2024 -0800
+
+    8-rectangle.py
+
+[33mcommit ebab2063a2004be97e3e41e501abb3758586b59e[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 01:25:32 2024 -0800
+
+    10-square.py
+
+[33mcommit 4a291f0f4c75fa8b15ee4a67e727512247eff7e0[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 01:20:42 2024 -0800
+
+    10-square.py
+
+[33mcommit 18bdf7cc581be725fdd55de1f13a351c6679b5c1[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 01:18:45 2024 -0800
+
+    11-square.py
+
+[33mcommit ea66c652a111ab9203fd5ffd1ebdd0bf527cab52[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 01:16:48 2024 -0800
+
+    6-base_geometry.py
+
+[33mcommit 94be3ef924b9a5895cdc3b6c4a98ed79bab0d920[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 01:15:06 2024 -0800
+
+    5-base_geometry.py
+
+[33mcommit f30e68b2a0cc9c469736f29fe55264735c34c4e7[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 01:13:09 2024 -0800
+
+    4-inherits_from.py
+
+[33mcommit 73f08920bab8d61fbf2470735acb624bc5cd95b2[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 01:10:57 2024 -0800
+
+    4-inherits_from.py
+
+[33mcommit a069ab37f14a64fa92461a8cac980d44f17d3131[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 01:09:13 2024 -0800
+
+    3-is_kind_of_class.py
+
+[33mcommit 8149069484088bfa09a55d0b7e25adc5f4b5a505[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 01:07:38 2024 -0800
+
+    2-is_same_class.py
+
+[33mcommit d4ae063553b7a8d7c841f5bbb722b6be57dca4e9[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 01:04:53 2024 -0800
+
+    1-my_list.py
+
+[33mcommit a6d441faabc20ed67bca444603d6081bcf9f444c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 00:59:57 2024 -0800
+
+    1-my_list.py,
+
+[33mcommit 9a7333730fae50cfa5f31d5545eb8ee7c6698654[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 00:53:34 2024 -0800
+
+    0-lookup.py
+
+[33mcommit b01baac5c089e4c33245db496602c0145a76f72b[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 00:51:09 2024 -0800
+
+    0-lookup.py
+
+[33mcommit abb7418e703a409f4f8a86e92eb5dda27954e226[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 00:41:21 2024 -0800
+
+    105-line1.txt
+
+[33mcommit d26c9ad3acd3ef73091b185f480c93ef06129490[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 00:34:15 2024 -0800
+
+    105-line1.txt
+
+[33mcommit 0dba7fb1fcbfa0d4e8a874e26ced10d1da5eca67[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 00:25:19 2024 -0800
+
+    100-magic_string.py
+
+[33mcommit 33a05fa89dfc45166120263fd19ec453b0f3906d[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 00:19:35 2024 -0800
+
+    100-magic_string.py
+
+[33mcommit fcb73c1c5340cf43068bade55bc7fc99f45b3af2[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Nov 12 00:16:57 2024 -0800
+
+    100-magic_string.py
+
+[33mcommit 8070db04302cf5f72fed01fd56d8a5053ecbb3c1[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 12:32:23 2024 -0800
+
+    28-answer.txt
+
+[33mcommit 6da53ccee34317be2e9448695914c44eccc7dbf1[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 12:30:58 2024 -0800
+
+    27-answer.txt
+
+[33mcommit 7ae5ea1076234903a3204019e6b1194c308e81c3[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 12:26:25 2024 -0800
+
+    26-answer.txt
+
+[33mcommit d95d859d1bc4a4c4f31a9d50810712301cd22357[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 12:24:08 2024 -0800
+
+    25-answer.txt
+
+[33mcommit c3d58ea2cf2f9508faba8828a3e23799596ba850[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 12:22:56 2024 -0800
+
+    24-answer.txt
+
+[33mcommit 644f0918d119115659e24365faac14362f46bbfa[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 12:21:22 2024 -0800
+
+    23-answer.txt
+
+[33mcommit d676bb615b86812fc756844f27096b000342c8a9[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 12:18:12 2024 -0800
+
+    23-answer.txt
+
+[33mcommit 488fbba7727d0050482e0bf4be9cb2290e6789cb[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 12:08:13 2024 -0800
+
+    23-answer.txt
+
+[33mcommit 1fa15a6078f38bf324b2e03a82c22d8422699ca2[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 12:00:54 2024 -0800
+
+    22-answer.txt
+
+[33mcommit 3d9abe6aee2c3bbf8273351698dadaa72eae0309[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 11:56:52 2024 -0800
+
+    21-answer.txt
+
+[33mcommit 8b68b20e5129a04b176a7f21397c9112dde1f196[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 02:16:17 2024 -0800
+
+    19-copy_list.py
+
+[33mcommit e827a2f7bd1c45b96433c5d60dbaa15c07ab50be[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 02:12:30 2024 -0800
+
+    20-answer.txt
+
+[33mcommit 2aa31bec061e7b1b6401496ef7d875a2720e0d28[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 02:11:25 2024 -0800
+
+    19-answer.txt
+
+[33mcommit 7d752d6b55ffed7fdf81d2763a2ca360e95b6005[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 02:10:02 2024 -0800
+
+    18-answer.txt
+
+[33mcommit cba321cf1f3baa685d46b1ff33fa0dd2db9529d4[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 02:08:40 2024 -0800
+
+    17-answer.txt
+
+[33mcommit 58f5f9cbc66caeed2f99032a006b59c72abb9fa3[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 02:04:31 2024 -0800
+
+    16-answer.txt
+
+[33mcommit 1eade7336cf63002129d60df6c60d4182fca58d2[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 02:03:26 2024 -0800
+
+    15-answer.txt
+
+[33mcommit fe9e0c30c96f131020adeb39adfa7c6ca0c5d0e3[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:59:38 2024 -0800
+
+    14-answer.txt
+
+[33mcommit a670f28162fe34b45d57b77a0b391ced1cc3097e[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:51:46 2024 -0800
+
+    13-answer.txt
+
+[33mcommit bcc90ce0d275779f203097d3b579ab81da0d163b[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:50:28 2024 -0800
+
+    12-answer.txt
+
+[33mcommit 6055dadc319329ceb0ae8c07b05e670e4de8d33e[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:48:12 2024 -0800
+
+    11-answer.txt
+
+[33mcommit 6ac20a97e7a2a4ca812dbfd2f5ae0df4b9836062[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:46:43 2024 -0800
+
+    10-answer.txt
+
+[33mcommit c78b0644bddbe86665f76e6585068c20d6e5f3d7[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:44:04 2024 -0800
+
+    9-answer.txt
+
+[33mcommit 2239aea15c9a0a0f6cbfbace7468f5e0b0eea5e2[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:34:46 2024 -0800
+
+    8-answer.txt
+
+[33mcommit 9c8c5354b5a1cd1d705b9b5a222eccc677bacf60[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:32:36 2024 -0800
+
+    7-answer.txt
+
+[33mcommit e353f974472024bbdd01ef52f81600272db1cec4[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:31:19 2024 -0800
+
+    6-answer.txt
+
+[33mcommit 5461ec3239115cd4e6c370021fccaa2a723498fe[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:27:27 2024 -0800
+
+    9
+
+[33mcommit 9fa52fcc6acd38d0f9ec77c21348af16947a3732[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:26:37 2024 -0800
+
+    8-answer.txt
+
+[33mcommit 346aa568bbe2eee7ba1657b983db43b6609fc60f[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:24:49 2024 -0800
+
+    7-answer.txt
+
+[33mcommit 7a3e01d8b666f556d6430d93d33c2815d98bceea[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:23:43 2024 -0800
+
+    6-answer.txt
+
+[33mcommit 75e14bb615afe0e897d73b3234636387a166caf8[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:22:28 2024 -0800
+
+    5-answer.txt
+
+[33mcommit d8553998ebbbf27701cf7453821100d958e036c5[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:21:22 2024 -0800
+
+    4-answer.txt
+
+[33mcommit 9d7f975454f7c4fe15be24b0fb4d857bac5f979c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:16:34 2024 -0800
+
+    2-answer.txt
+
+[33mcommit 573083434a7356f1add59ed89f865d5afd291dc8[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:15:28 2024 -0800
+
+    3-answer.txt
+
+[33mcommit 4e5baa1d10657e21a0ad04422ba15eb0e778e455[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:13:07 2024 -0800
+
+    1-answer.txt
+
+[33mcommit 364b3fcb49da97351c7dba8e40ad58ff1639f193[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Nov 11 01:10:04 2024 -0800
+
+    0-answer.txt
+
+[33mcommit 5d743d2b7c9c219d30dcc91a3e909cce883dc342[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 08:00:56 2024 -0800
+
+    4-rectangle.py
+
+[33mcommit 9abeb3a03d75b1372dc46aa88f56f471ba861b42[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 07:56:40 2024 -0800
+
+    5-rectangle.py
+
+[33mcommit 549df0f9cf3b1d44e8e8c7351a915faa6e0a6630[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 07:54:39 2024 -0800
+
+    6-rectangle.py
+
+[33mcommit b30067ea373c979107081245ccd6c24962e100d6[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 07:51:12 2024 -0800
+
+    7-rectangle.py
+
+[33mcommit 7ecea10b8e291a595d0741e9e4859d7eae94760a[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 07:47:52 2024 -0800
+
+    8-rectangle.py
+
+[33mcommit 291cb67875129bf7638ef253a31e146632ce3e27[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 07:45:41 2024 -0800
+
+    9-rectangle.py
+
+[33mcommit f7d7c951ad8fb7d1ddb02c669492054e5b04498b[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 07:27:02 2024 -0800
+
+    Add .gitignore to ignore __pycache__
+
+[33mcommit 510b249de0ae23de4714c4b4d046f4ca6a4d37bc[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 07:05:09 2024 -0800
+
+    3-main.py
+
+[33mcommit dd5819c5df7b84da51974737a85be76d921a0a47[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 07:03:00 2024 -0800
+
+    Add Rectangle class implementation
+
+[33mcommit edd62393566dc1a159851b90508d001576f34d1d[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 06:50:53 2024 -0800
+
+    3-rectangle.py
+
+[33mcommit bcf7aa86090babe4b67706352e18ca092144b821[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 06:47:53 2024 -0800
+
+    3-rectangle.py
+
+[33mcommit d7125aa8306ace3177dd4798b5cda4ce0d33a939[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 06:34:19 2024 -0800
+
+    3-rectangle.py
+
+[33mcommit 3528bdd9fe58d952f522a7b111560a12b635d5fe[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 06:30:57 2024 -0800
+
+    2-rectangle.py
+
+[33mcommit e2330ea4d416b1414a550e32cf12ff36789ef5c0[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 06:27:24 2024 -0800
+
+    2-rectangle.py
+
+[33mcommit 04595cc5c882797c1209a79d1aad55e1730ca92c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 06:17:33 2024 -0800
+
+    1-rectangle.py
+
+[33mcommit bd56ffcf465beafe39792807aba8123a7eb13986[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 06:14:10 2024 -0800
+
+    1-rectangle.py
+
+[33mcommit f77c380e278d9e9f79f0cf2e2a20099f1908127c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 06:09:32 2024 -0800
+
+    0-rectangle.py
+
+[33mcommit 1419c84f30e0f8c5c65fa84859b891efd8dac176[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 05:14:09 2024 -0800
+
+    6-square.py
+
+[33mcommit 8e29835bca0a4afaa90ac295bb9d3c6e70603991[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 05:12:29 2024 -0800
+
+    5-square.py
+
+[33mcommit 6b6d298d8eb00c7ea17be39ee01df9df69c801e4[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 05:11:06 2024 -0800
+
+    4-square.py
+
+[33mcommit eca18c7678eec0cf2d779a4afe03ff51bd56a400[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 05:09:51 2024 -0800
+
+    3-square.py
+
+[33mcommit 113a4bb72d6a74a1f2ff51ed8549270b52d69a81[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 05:08:37 2024 -0800
+
+    2-square.py
+
+[33mcommit 8029f17a3b5e689ff0f509b6d1a732bbf6089d23[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 05:07:27 2024 -0800
+
+    1-square.py
+
+[33mcommit bb4c73154aca22cace97d0701f2d83e21923ea0e[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 05:04:32 2024 -0800
+
+    2-square.py
+
+[33mcommit 8397fdbbabf12ca10a1993dd6db901f2cd803c2d[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sun Nov 10 05:02:21 2024 -0800
+
+    1-square.py
+
+[33mcommit 3705090c5c4d87360251864771e232f05af0766c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sat Nov 9 06:18:56 2024 -0800
+
+    0-square.py
+
+[33mcommit ed4a76c944e2fec5531c186bca03ee4b5eae6caa[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sat Nov 9 04:35:42 2024 -0800
+
+    6-raise_exception_msg.py
+
+[33mcommit 12fd65b70b4eb33554c8a984f04d1c138df00d41[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sat Nov 9 04:33:43 2024 -0800
+
+    5-raise_exception.py
+
+[33mcommit 6c2b565d91b9699c8a906bbbd915b1697a9f2056[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sat Nov 9 04:31:44 2024 -0800
+
+    4-list_division.py
+
+[33mcommit cf891e54e9fd13b7f76ee3236c3a9224ee78961e[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sat Nov 9 04:28:44 2024 -0800
+
+    3-safe_print_division.py
+
+[33mcommit 4459fe31053db228464ca237e3045c11b3962df4[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sat Nov 9 04:17:48 2024 -0800
+
+    2-safe_print_list_integers.py
+
+[33mcommit c43832a46c8cb4b15deb4e1706728a7864861b9c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sat Nov 9 04:12:20 2024 -0800
+
+    1-safe_print_integer.py
+
+[33mcommit 42c3b345246ba5cb58c5f4957ef58157e648f154[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sat Nov 9 03:56:14 2024 -0800
+
+    0-safe_print_list.py
+
+[33mcommit d3548ec6e9f7d1c446294b3b6d2b9ec262df25a0[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sat Nov 9 03:49:25 2024 -0800
+
+    0-safe_print_list.py
+
+[33mcommit 72e18f808de82258e45a309abd171f2096b587a7[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Sat Nov 9 03:33:52 2024 -0800
+
+    0-safe_print_list.py
+
+[33mcommit 8ee6df51bde4e31adb8e889acb4aff9af384e5bf[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 11:53:59 2024 -0700
+
+    11-multiply_list_map.py
+
+[33mcommit 04b3fe6101440c124925f1668319cf79c4af06a7[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 11:51:04 2024 -0700
+
+    Update 11-multiply_list_map.py
+
+[33mcommit 9021b38c5591ce35ce144e1b1da9f9a22d3f842f[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 08:41:46 2024 -0700
+
+    12-roman_to_int.py
+
+[33mcommit 839c861a98abcf5e6a2f29dd2ea61ca7725ad023[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 08:27:28 2024 -0700
+
+    10-best_score.py
+
+[33mcommit de6ce98fd2b093c171cae50006ebae6e69d476a8[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 08:25:29 2024 -0700
+
+    9-multiply_by_2.py
+
+[33mcommit ddf2b593224a1c33affe89f5bec4cc7b49be0daa[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 08:22:51 2024 -0700
+
+    8-simple_delete.py
+
+[33mcommit 5be76f73c1aed7e0d83cb6c7a2cf8b73b9691f63[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 07:56:58 2024 -0700
+
+    7-update_dictionary.py
+
+[33mcommit ea958bfb0fc183918a60e0ed4f6e5ce048334e8f[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 07:45:59 2024 -0700
+
+    6-print_sorted_dictionary.py
+
+[33mcommit e90ca943fd36a24cd926f48d3de4b039db3cac7d[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 07:27:36 2024 -0700
+
+    5-number_keys.py
+
+[33mcommit ba465e431018883c9143949571598b4c9c9827a6[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 07:21:55 2024 -0700
+
+    5-number_keys.py
+
+[33mcommit aab360ca41b7ab859025c3b4b7f6e7c8cbe514f2[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 07:16:25 2024 -0700
+
+    4-only_diff_elements.py
+
+[33mcommit 9370b177157ec12d15f2c2b84a3461c48ed0cd58[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 07:12:45 2024 -0700
+
+    3-common_elements.py
+
+[33mcommit c20dd31c84081de18cba17dd0bec2f7ba0331148[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 07:11:07 2024 -0700
+
+    2-uniq_add.py
+
+[33mcommit f5467ee08a1346601c0ccd35fe9b3c275694f5c3[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 07:07:49 2024 -0700
+
+    1-search_replace.py
+
+[33mcommit 3001b0d16913aafa190741324adfdf0891b0213a[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 07:01:33 2024 -0700
+
+    0-square_matrix_simple.py
+
+[33mcommit e14bf24a6620b26dd1fd50c159054276a3c8aadf[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 04:14:39 2024 -0700
+
+    12-switch.py
+
+[33mcommit 85b44dc05969614ad6ec265bce636141b5dcee2c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 04:10:20 2024 -0700
+
+    11-delete_at.py
+
+[33mcommit 955bcc8e72d1872eb331824d86cc106b954409b1[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 04:07:41 2024 -0700
+
+    10-divisible_by_2.py
+
+[33mcommit e0ad2fa56167042e968db1bd500b373a5f23b33f[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 04:02:40 2024 -0700
+
+    9-max_integer.py
+
+[33mcommit 976f45427d00422877744913f15f0490dafafa67[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 03:57:45 2024 -0700
+
+    8-multiple_returns.py
+
+[33mcommit e8149e7fce1810354394d41e7138e24a11543b1d[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 03:56:18 2024 -0700
+
+    7-add_tuple.py
+
+[33mcommit df393775f191024703f16f9a82f595c095c5715c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 03:54:40 2024 -0700
+
+    6-print_matrix_integer.py
+
+[33mcommit 2478912681733b76b23403baf4b0231f18e220de[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 03:48:27 2024 -0700
+
+    5-no_c.py
+
+[33mcommit 54916dec07fded08fac140edf7e176007cb1fa5e[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 01:32:03 2024 -0700
+
+    4-new_in_list.py
+
+[33mcommit df184d7308ab66e1673ccfde0707027f769bd565[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 01:30:18 2024 -0700
+
+    3-print_reversed_list_integer.py
+
+[33mcommit 4978bb2fe75ed22e4ea3131c4572f8fd5fe9f70e[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 01:28:31 2024 -0700
+
+    2-replace_in_list.py
+
+[33mcommit 78a06f847c965e22a6fadbfc22aae45bdcff5a08[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 01:26:31 2024 -0700
+
+    1-element_at.py
+
+[33mcommit b7aa8c7b1ce82f055b2157b9fbe42cbd3ed0e3d7[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 01:23:25 2024 -0700
+
+    0-print_list_integer.py
+
+[33mcommit 437c4e5180eb3a751f81ffe4f46a016f085068d4[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 01:11:14 2024 -0700
+
+    5-variable_load.py
+
+[33mcommit c26d90d8929fc04eaa5d35c9387addf4aa6b9aa8[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 01:08:22 2024 -0700
+
+    4-hidden_discovery.py
+
+[33mcommit 2b1d32e564ea84321644cd2bcf9a05744221f723[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 01:06:26 2024 -0700
+
+    3-infinite_add.py
+
+[33mcommit c2926a4b35157e53fb0d67ed0e094e7d06483373[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 01:02:30 2024 -0700
+
+    2-args.py
+
+[33mcommit 8a25081471ab216326c7fcf9924065653d30c3d2[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 00:58:10 2024 -0700
+
+    1-calculation.py
+
+[33mcommit cf68c50789c279d9a7e52f4879c3e1dab22534d1[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Thu Oct 24 00:54:36 2024 -0700
+
+    0-add.py
+
+[33mcommit a3e909d1c8982554eeb52d6b679de4fdc83b11f2[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:59:11 2024 -0700
+
+    12-fizzbuzz.py
+
+[33mcommit f88f68f6e4f7e1e4c3e2b10e313eb49647d65931[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:56:43 2024 -0700
+
+    11-pow.py
+
+[33mcommit 5eb3b59b4ba944c06481e68b1f47faa35ec1976e[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:54:39 2024 -0700
+
+    10-add.py
+
+[33mcommit 4e0c17cce15c60fbee1e5d82494baae3c32569ed[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:51:43 2024 -0700
+
+    9-print_last_digit.py
+
+[33mcommit 5e185b52bf42eb1bb0f152cf673e8072874cba81[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:48:37 2024 -0700
+
+    9-print_last_digit.py
+
+[33mcommit d907111011aaa9ada0dfdb64110206379b21ca7b[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:46:29 2024 -0700
+
+    8-uppercase.py
+
+[33mcommit e8f0ef2421cb1b9eaba1a177cbf65a5d030d4aa9[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:42:40 2024 -0700
+
+    7-islower.py
+
+[33mcommit 5c16c04c7540d0bb99ad2e41254fe46a272a5b08[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:40:42 2024 -0700
+
+    6-print_comb3.py
+
+[33mcommit ff5fc7d2ebe527949ffdab427b773566789de58b[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:38:13 2024 -0700
+
+    3-print_alphabt.py
+
+[33mcommit d533dfde6f23c78bb7cf820a2b7698305a75ad08[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:36:28 2024 -0700
+
+    5-print_comb2.py
+
+[33mcommit f014e7dbbd6f03b7f8fa4736be36e79ad763b817[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:34:36 2024 -0700
+
+    4-print_hexa.py
+
+[33mcommit 05f39bf4c1027ccd1391e3f3306d13b0a7268584[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:32:07 2024 -0700
+
+    3-print_alphabt.py
+
+[33mcommit 5bb4ed36a510e44af2b6f6ff47d19c1c597a214c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:30:35 2024 -0700
+
+    2-print_alphabet.py
+
+[33mcommit 46d22418dcbfb5c2d9022abe08ec148cac4a37ab[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:28:37 2024 -0700
+
+    1-last_digit.py
+
+[33mcommit 3e3dc288b60270f7a1cfc89378858cf5053abfe9[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:26:41 2024 -0700
+
+    0-positive_or_negative.py
+
+[33mcommit 9d8e60f5b85ddbfe589862ec2cad0d83bf6e5e7f[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:23:23 2024 -0700
+
+    0-positive_or_negative.py
+
+[33mcommit 2924ba06e04afdc2c11e48d128bde06a9dcbe28c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:16:57 2024 -0700
+
+    9-easter_egg.py
+
+[33mcommit c2930f4b2c8d1e7c841aaeef8f225675ddfd8247[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:14:18 2024 -0700
+
+    8-concat_edges.py
+
+[33mcommit d3e7a9045ecd00ce3ad978e4e9e72c9eeccd856c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:12:11 2024 -0700
+
+    7-edges.py
+
+[33mcommit 92c46a050e0357bff7603facf05a5f2e0ce75773[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:10:16 2024 -0700
+
+    6-concat.py
+
+[33mcommit 95575b84cd091799f615accf3ca6af1f43b24ab7[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:08:12 2024 -0700
+
+    6-concat.py
+
+[33mcommit 1c66c9999f9939ebbd70a0099ebb359a5694461e[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:05:13 2024 -0700
+
+    5-print_string.py
+
+[33mcommit 9698a40f0a6ae524fe3d46d6964fd4dc78fabf06[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Wed Oct 23 00:03:25 2024 -0700
+
+    5-print_string.py
+
+[33mcommit 79e9d8707b030bfc7d9e2485195d3d9279939dba[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Oct 22 23:57:32 2024 -0700
+
+    4-print_float.py
+
+[33mcommit c9552799bdab4b4d9b29234cd7f4990c86806e73[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Oct 22 23:55:14 2024 -0700
+
+    4-print_float.py
+
+[33mcommit 020c4357ca87d1285eac9419061d32926e07e303[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Tue Oct 22 23:50:15 2024 -0700
+
+    3-print_number.py
+
+[33mcommit 561fa056eeb722d8b6789821f2afe5ade74fe931[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Oct 21 05:29:15 2024 -0700
+
+    4-print_float.py
+
+[33mcommit 15ed864ed72eb643a587cff5c30c5372ecbcf844[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Oct 21 05:06:32 2024 -0700
+
+    3-print_number.py
+
+[33mcommit bf515f5f971a576b1542ffe336492251a51dd38c[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Oct 21 04:45:51 2024 -0700
+
+    2-print.py
+
+[33mcommit 5a40c3edc212df0c224fd4b9de31c476f5f5a9b6[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Oct 21 04:40:02 2024 -0700
+
+    1-run_inline
+
+[33mcommit 401bd06de8fa10c1d4f98eb017b310c847de2f7f[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Oct 21 04:34:15 2024 -0700
+
+    1-run_inline
+
+[33mcommit cf184778dfb3dff21c66f3c39918cf10f063477f[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Oct 21 04:29:27 2024 -0700
+
+    0-run
+
+[33mcommit 35b6395689281314b05ea32de921e525bbb53251[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Oct 21 04:26:32 2024 -0700
+
+    0-run
+
+[33mcommit dfc1927b4b55e17292fe590f8964a1e78eb02837[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Oct 21 04:21:20 2024 -0700
+
+    0-run
+
+[33mcommit e72945d5d55187d0edf998349e03aaf15d50afc9[m
+Author: Josiane705 <j.mukeshima@alustudent.com>
+Date:   Mon Oct 21 04:12:49 2024 -0700
+
+    0-run
