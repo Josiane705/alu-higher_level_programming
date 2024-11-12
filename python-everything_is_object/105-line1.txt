@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 
-# Assigning a small integer (within the range of -5 to 256)
-x = 5  # This does not create a new integer object, as 5 is interned.
+# At this point, the small integer objects from -5 to 256 are already created in memory by CPython.
+x = 5  # This references the interned integer 5, no new integer object is created here.
 
-# At this point, the only integer object in memory is the interned integer `5`.
-
-print("Love")  # This line does not affect the integer objects.
+print("Love")  # This does not affect the integer objects.
 
