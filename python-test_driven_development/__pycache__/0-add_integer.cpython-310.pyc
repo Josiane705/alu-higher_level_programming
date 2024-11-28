@@ -1,12 +1,0 @@
-o
-    [$
-fa  ã                   @   s   d Z ddd„ZdS )z6
-This module contains a function that adds 2 integers
-éb   c                 C   s@   t | ƒttfvrtdƒ‚t |ƒttfvrtdƒ‚t| ƒt|ƒ S )z'
-    Function that adds 2 integers
-    za must be an integerzb must be an integer)ÚtypeÚintÚfloatÚ	TypeError)ÚaÚb© r   úq/home/abizera/Documents/Projects/ALU/alu-higher_level_programming/python-test_driven_development/0-add_integer.pyÚ
-add_integer    s
-   r
-   N)r   )Ú __doc__r
-   r   r   r   r	   Ú<module>   s   
-
