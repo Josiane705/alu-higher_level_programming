@@ -1,7 +1,0 @@
-#!/usr/bin/python3
-
-# At this point, the small integer objects from -5 to 256 are already created in memory by CPython.
-x = 5  # This references the interned integer 5, no new integer object is created here.
-
-print("Love")  # This does not affect the integer objects.
-
