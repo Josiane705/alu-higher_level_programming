@@ -11,4 +11,3 @@ class Square extends previousclass {
 }
 
 module.exports = Square;
-
