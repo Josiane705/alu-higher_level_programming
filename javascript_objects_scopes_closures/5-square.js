@@ -4,19 +4,14 @@ const Rectangle = class Rectangle {
     if (w > 0 && h > 0) {
       this.width = w;
       this.height = h;
-    } else {
-      this.width = 0;
-      this.height = 0;
     }
   }
 
   print () {
-    if (this.width === 0 || this.height === 0) return;
-
     let prints = '';
     for (let xx = 0; xx < this.height; xx++) {
       for (let yy = 0; yy < this.width; yy++) {
-        prints += 'X';
+        prints = prints + 'X';
       }
       console.log(prints);
       prints = '';
@@ -34,6 +29,4 @@ const Rectangle = class Rectangle {
     this.height *= 2;
   }
 };
-
 module.exports = Rectangle;
-
