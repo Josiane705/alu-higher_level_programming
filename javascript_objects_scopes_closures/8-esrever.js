@@ -4,9 +4,9 @@ exports.esrever = function (list) {
   const reversedList = [];
 
   for (let i = list.length - 1; i >= 0; i--) {
-    reversedList.push(list[i]);
+    const valueAtIndex = list[i];
+    reversedList.push(valueAtIndex);
   }
-  
   return reversedList;
 };
 
