@@ -1,32 +1,14 @@
 #!/usr/bin/node
-const Rectangle = class Rectangle {
-  constructor (w, h) {
-    if (w > 0 && h > 0) {
-      this.width = w;
-      this.height = h;
+const previousclass = require('./5-square');
+
+class Square extends previousclass {
+  charPrint (c) {
+    const char = c || 'X';  // Default to 'X' if c is undefined
+    for (let i = 0; i < this.height; i++) {
+      console.log(char.repeat(this.width));
     }
   }
+}
 
-  print () {
-    let prints = '';
-    for (let xx = 0; xx < this.height; xx++) {
-      for (let yy = 0; yy < this.width; yy++) {
-        prints = prints + 'X';
-      }
-      console.log(prints);
-      prints = '';
-    }
-  }
+module.exports = Square;
 
-  rotate () {
-    const p = this.width;
-    this.width = this.height;
-    this.height = p;
-  }
-
-  double () {
-    this.width *= 2;
-    this.height *= 2;
-  }
-};
-module.exports = Rectangle;
