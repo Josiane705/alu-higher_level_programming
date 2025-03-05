@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 const url = process.argv.slice(2)[0];
 const request = require('request');
